@@ -1,5 +1,5 @@
 		<!-- Start Footer -->
-		<footer class="page-footer red accent-4">
+		<footer class="page-footer white">
 			<!-- Copyright -->
 			<div class="footer-copyright py-3 text-center">
 				<p>All right reserved.</p>
