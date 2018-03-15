@@ -25,61 +25,61 @@
 				<!-- Links -->
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item">
-						<a class="btn indigo" href="" 
+						<a class="btn indigo" href="<?php echo base_url()?>Overview" 
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-home mr-1"></i> Overview
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-outline-primary waves-effect" href="" 
+						<a class="btn btn-outline-primary waves-effect" href="<?php echo base_url()?>Mobile" 
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-mobile mr-1" ></i> Mobile
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn yellow darken-3" href=""
+						<a class="btn yellow darken-3" href="<?php echo base_url()?>DS"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-signal mr-1"></i> DS
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn red accent-4" href=""
+						<a class="btn red accent-4" href="<?php echo base_url()?>Cons"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-users mr-1"></i> CONS
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-elegant" href=""
+						<a class="btn btn-elegant" href="<?php echo base_url()?>Enterprise"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-building mr-1"></i> ENTERPRISE
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn orange darken-3" href=""
+						<a class="btn orange darken-3" href="<?php echo base_url()?>WIB"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-globe mr-1"></i> WIB
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-primary" href=""
+						<a class="btn btn-primary" href="<?php echo base_url()?>FIN"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-dollar mr-1"></i> FIN
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-grey" href=""
+						<a class="btn btn-grey" href="<?php echo base_url()?>DSP"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-cloud mr-1"></i> DSP
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-grey" href=""
+						<a class="btn btn-grey" href="<?php echo base_url()?>HCM"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-user mr-1"></i> HCM
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="btn btn-grey" href=""
+						<a class="btn btn-grey" href="<?php echo base_url()?>OTH"
 						style="padding-left: 20px; padding-right: 20px;">
 							<i class="fa fa-refresh mr-1"></i> OTH
 						</a>
