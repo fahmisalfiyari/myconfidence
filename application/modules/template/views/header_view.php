@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/src/css/style.css">
 	<link rel="icon" type="image/ico" href="<?php echo base_url()?>assets/src/img/telkom/favicon.ico" >
 </head>
-<body>
+<body class="grey lighten-3">
 	<header class="fixed-top">
 		<nav class="navbar navbar-dark red accent-4 scrolling-navbar" style="padding-top:1px; padding-bottom: 1px; font-weight: 500">
 			<!-- BRAND -->
